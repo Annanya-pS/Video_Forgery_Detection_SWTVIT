@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "SWTVIT: Spatio-Frequency Analysis of Facial Regions for Video Forgery Detection"
+authors:
+  - family-names: Singh
+    given-names: Shiv Vendra
+    affiliation: "Jaypee Institute of Information Technology, Noida"
+  - family-names: Sahoo
+    given-names: Annanya Priyadarshini
+    affiliation: "Jaypee Institute of Information Technology, Noida"
+date-released: 2026-04-28
+version: "1.0.0"
+abstract: >
+  SWTVIT is a four-class deepfake detection pipeline combining Stationary
+  Wavelet Transform (SWT) preprocessing with a fine-tuned Vision Transformer
+  (ViT-Small) backbone and GradCAM-based spatial localization. Trained and
+  evaluated on FaceForensics++ (c23), it achieves 84.61% frame-level and
+  90.00% video-level accuracy across four manipulation categories: Real,
+  Deepfakes, FaceSwap, and Face2Face.
+keywords:
+  - deepfake detection
+  - vision transformer
+  - stationary wavelet transform
+  - FaceForensics++
+  - GradCAM
+  - media forensics
+  - face manipulation
+license: MIT
+repository-code: "https://github.com/YOUR_USERNAME/SWTVIT"
