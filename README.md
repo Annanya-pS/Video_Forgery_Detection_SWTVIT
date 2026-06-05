@@ -5,7 +5,7 @@
 [![Macro F1](https://img.shields.io/badge/Macro%20F1-85.09%25-blue)]()
 [![Dataset](https://img.shields.io/badge/Dataset-FaceForensics%2B%2B-orange)]()
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-red)]()
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Annanya-pS/Video_Forgery_Detection_SWTVIT/blob/main/Complete_deepfake_detection_pipeline_with_UI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Annanya-pS/Video_Forgery_Detection_SWTVIT/blob/main/Complete_deepfake_detection_pipeline_with_UI (3).ipynb)
 
 > **4-class deepfake detection** using Stationary Wavelet Transform + Vision Transformer (ViT-Small) with GradCAM spatial localization. Trained and evaluated on FaceForensics++ (c23).
 
